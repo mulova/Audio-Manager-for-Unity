@@ -1,0 +1,11 @@
+{
+	"name": "microsoft.mixedreality.toolkit.audio",
+	"displayName": "AudioManager",
+	"version": "1.0.0",
+	"unity": "2018.1",
+	"description": "microsoft audio manager",
+	"keywords": ["audio", "sound"],
+	"category": "audio",
+	"dependencies": {
+	}
+}
