@@ -34,7 +34,7 @@ namespace Microsoft.MixedReality.Toolkit.Audio
             }
             else
             {
-                Debug.LogWarning("audio not assigned");
+                Debug.Log("audio not assigned");
             }
         }
     }
